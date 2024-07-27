@@ -11,7 +11,10 @@ I noticed someone mention using CSS and XML. While I knew that I could be done, 
 - Wrote some basic styles to add the css to the XML document
 - Tweaked styles from there with a focus on responsive design and CSS grid box
 
-## How to Demo
+## How to Demo Locally
 - Clone the repo
 - Open up the XML file in your browser
 - Enjoy!
+
+## Demo
+https://mhynson.github.io/css-on-xml/tasks.xml
